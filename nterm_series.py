@@ -23,7 +23,7 @@ def find_number_series(input_no):
 	current = 0
 
 	if(input_no == 1):
-		print(base_no)
+		base_no = 3
 
 	#example if user enter 9 we have to find number of the 9th position so we need loop As we already have 1st position value we start from 2nd position
 
